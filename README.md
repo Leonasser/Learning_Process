@@ -1,5 +1,5 @@
 # Learning_Process
-This repository is a collection of projects I have worked on with the objective of learning and practicing coding. The goal of this repository is to store these projects and make the code more accessible, not only for my personal reference but also for others who might find it useful.
+This repository is a collection of projects I have worked on with the objective of learning and practicing coding. Each branch in this repository, apart from the Main branch which holds this README, represents a different project.
 
 # What You Will Find Here
 In this repository, you will find a variety of projects that I have worked on. These projects cover different areas of programming and showcase various skills. Each project is stored in its own directory, complete with any necessary data files and a README file that explains the project in detail.
