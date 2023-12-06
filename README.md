@@ -1,11 +1,11 @@
-# Learning_Process
-This repository is a collection of projects I have worked on with the objective of learning and practicing coding. Each branch in this repository, apart from the Main branch which holds this README, represents a different project.
+# SoundScreen
+This program is designed to fetch JSON files from online servers (for example, from GitHub) and display songs with specific properties such as Name, Artist, Duration, Genre, and Key note.
 
-# What You Will Find Here
-In this repository, you will find a variety of projects that I have worked on. These projects cover different areas of programming and showcase various skills. Each project is stored in its own directory, complete with any necessary data files and a README file that explains the project in detail.
+# Objective
+The main objective of this project was to re-learn how to use Object-Oriented Programming (OOP). After a long break and learning C# at both basic and advanced levels for work, this project served as a refresher.
 
-# For Recruiters and the General Public
-If you’re a recruiter, feel free to browse through the code. Each project demonstrates my problem-solving skills, coding abilities, and understanding of programming concepts. If you’re a member of the general public interested in coding, you’re welcome to use these projects as a learning resource. Please bear in mind that this code is for reference and learning purposes and comes with no warranties or guarantees.
+# Features
+While the front-end may not be fully developed, the program successfully fetches and displays song data. It also has an implemented connection with ChatGPT. However, due to API credit limitations, this feature is currently not in use.
 
-# Contributing
-While this repository primarily serves as a personal code storage, contributions are welcome. If you have any suggestions or improvements, feel free to make a pull request.
+
+### Program made with the Alura C# Formation.
